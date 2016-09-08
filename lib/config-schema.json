@@ -1,0 +1,35 @@
+{
+  "userId": {
+    "type": "string",
+    "default": "",
+    "description": "Service user id"
+  },
+  "password": {
+    "type": "string",
+    "default": "",
+    "description": "Service password"
+  },
+  "instanceId": {
+    "type": "string",
+    "default": "",
+    "description": "Service instance id"
+  },
+  "url": {
+    "type": "string",
+    "default": "",
+    "description": "Service url end point"
+  },
+  "sourceLanguage": {
+    "type": "string",
+    "default": "en",
+    "description": "BCP 47 langauge code, e.g., en"
+  },
+  "targetLanguages": {
+    "type": "array",
+    "default": [],
+    "description": "Array of BCP 47 list of target languages, e.g., es, fr",
+    "items": {
+      "type": "string"
+    }
+  }
+}
