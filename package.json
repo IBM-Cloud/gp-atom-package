@@ -1,7 +1,7 @@
 {
   "name": "gp-atom",
   "main": "./lib/gp-atom",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Connect to the Globalization Pipeline service on Bluemix",
   "keywords": [
     "IBM",
