@@ -10,15 +10,15 @@ If you are unfamiliar with IBM Bluemix and the Globalization Pipeline service ch
 
 You can create a new bundle right from the editor without having to use the Globalization Pipeline service's dashboard.
 
-![create bundle](images/create_bundle.png)
+![create bundle](https://cdn.rawgit.com/steveatkin/gp-atom-package/master/images/create_bundle.png?raw=true)
 
 You can upload your content from the editor and the extension will automatically get all your available bundles.
 
-![upload bundle](images/upload_bundle.png)
+![upload bundle](https://cdn.rawgit.com/steveatkin/gp-atom-package/master/images/upload_bundle.png?raw=true)
 
 You can download your bundles from the editor and then select the language that you want.
 
-![download bundle](images/download_bundle.png)
+![download bundle](https://cdn.rawgit.com/steveatkin/gp-atom-package/master/images/download_bundle.png?raw=true)
 
 ## Install
 
